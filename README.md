@@ -24,33 +24,64 @@
 ## Tecnologias
 
 ### Linguagens
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org/"><img src="images/python.svg" width="45" height="45" alt="Python"/></a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org/docs/current/sql.html"><img src="images/sql.svg" width="45" height="45" alt="SQL"/></a>
+      <br>SQL
+    </td>
+  </tr>
+</table>
 
 ### Bibliotecas
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://pandas.pydata.org/"><img src="images/pandas.svg" width="45" height="45" alt="Pandas"/></a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="https://numpy.org/"><img src="images/numpy.svg" width="45" height="45" alt="NumPy"/></a>
+      <br>NumPy
+    </td>
+  </tr>
+</table>
 
 ### Bancos de dados
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org/"><img src="images/postgresql.svg" width="45" height="45" alt="PostgreSQL"/></a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/"><img src="images/mysql.svg" width="45" height="45" alt="MySQL"/></a>
+      <br>MySQL
+    </td>
+  </tr>
+</table>
 
 ### BI e Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### Conceitos
-ETL · Modelagem dimensional (Star Schema) · Data Quality · Anonimização de dados (LGPD) · Window functions e CTEs
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.microsoft.com/power-platform/products/power-bi"><img src="images/powerbi.svg" width="45" height="45" alt="Power BI"/></a>
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.microsoft.com/microsoft-365/excel"><img src="images/excel.svg" width="45" height="45" alt="Excel"/></a>
+      <br>Excel
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/"><img src="images/git.svg" width="45" height="45" alt="Git"/></a>
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 ---
 
