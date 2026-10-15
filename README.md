@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Thiago 👋</h1>
+<h1 align="center">Olá, e seja Bem-vindo! 🤖 </h1>
 
 <p align="center">
   Estudante de Banco de Dados focado em Análise e Engenharia de Dados
