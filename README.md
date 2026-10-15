@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.python.org/"><img src="images/python.svg" width="45" height="45" alt="Python"/></a>
+      <a href="https://www.python.org/"><img src="images/python.svg" width="52" height="52" alt="Python"/></a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://www.postgresql.org/docs/current/sql.html"><img src="images/sql.svg" width="45" height="45" alt="SQL"/></a>
+      <a href="https://www.postgresql.org/docs/current/sql.html"><img src="images/sql.svg" width="52" height="52" alt="SQL"/></a>
       <br>SQL
     </td>
   </tr>
@@ -41,11 +41,11 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://pandas.pydata.org/"><img src="images/pandas.svg" width="45" height="45" alt="Pandas"/></a>
+      <a href="https://pandas.pydata.org/"><img src="images/pandas.svg" width="52" height="52" alt="Pandas"/></a>
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <a href="https://numpy.org/"><img src="images/numpy.svg" width="45" height="45" alt="NumPy"/></a>
+      <a href="https://numpy.org/"><img src="images/numpy.svg" width="52" height="52" alt="NumPy"/></a>
       <br>NumPy
     </td>
   </tr>
@@ -55,11 +55,11 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.postgresql.org/"><img src="images/postgresql.svg" width="45" height="45" alt="PostgreSQL"/></a>
+      <a href="https://www.postgresql.org/"><img src="images/postgresql.svg" width="52" height="52" alt="PostgreSQL"/></a>
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <a href="https://www.mysql.com/"><img src="images/mysql.svg" width="45" height="45" alt="MySQL"/></a>
+      <a href="https://www.mysql.com/"><img src="images/mysql.svg" width="52" height="52" alt="MySQL"/></a>
       <br>MySQL
     </td>
   </tr>
@@ -69,15 +69,15 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.microsoft.com/power-platform/products/power-bi"><img src="images/powerbi.svg" width="45" height="45" alt="Power BI"/></a>
+      <a href="https://www.microsoft.com/power-platform/products/power-bi"><img src="images/powerbi.svg" width="52" height="52" alt="Power BI"/></a>
       <br>Power BI
     </td>
     <td align="center" width="96">
-      <a href="https://www.microsoft.com/microsoft-365/excel"><img src="images/excel.svg" width="45" height="45" alt="Excel"/></a>
+      <a href="https://www.microsoft.com/microsoft-365/excel"><img src="images/excel.svg" width="52" height="52" alt="Excel"/></a>
       <br>Excel
     </td>
     <td align="center" width="96">
-      <a href="https://git-scm.com/"><img src="images/git.svg" width="45" height="45" alt="Git"/></a>
+      <a href="https://git-scm.com/"><img src="images/git.svg" width="52" height="52" alt="Git"/></a>
       <br>Git
     </td>
   </tr>
