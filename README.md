@@ -49,7 +49,7 @@
       <br>NumPy
     </td>
     <td align="center" width="96">
-      <a href="https://docs.pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytest/pytest-original.svg" width="56" height="56" alt="pytest"/></a>
+      <a href="https://docs.pytest.org/"><img src="images/pytest.svg" width="56" height="56" alt="pytest"/></a>
       <br>pytest
     </td>
   </tr>
@@ -85,11 +85,11 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" width="56" height="56" alt="GitHub Actions"/></a>
+      <a href="https://github.com/features/actions"><img src="images/githubactions.svg" width="56" height="56" alt="GitHub Actions"/></a>
       <br>GitHub Actions
     </td>
     <td align="center" width="96">
-      <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="56" height="56" alt="Docker"/></a>
+      <a href="https://www.docker.com/"><img src="images/docker.svg" width="56" height="56" alt="Docker"/></a>
       <br>Docker
     </td>
   </tr>
