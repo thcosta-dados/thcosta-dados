@@ -48,6 +48,10 @@
       <a href="https://numpy.org/"><img src="images/numpy.svg" width="56" height="56" alt="NumPy"/></a>
       <br>NumPy
     </td>
+    <td align="center" width="96">
+      <a href="https://docs.pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytest/pytest-original.svg" width="56" height="56" alt="pytest"/></a>
+      <br>pytest
+    </td>
   </tr>
 </table>
 
@@ -80,12 +84,29 @@
       <a href="https://git-scm.com/"><img src="images/git.svg" width="56" height="56" alt="Git"/></a>
       <br>Git
     </td>
+    <td align="center" width="96">
+      <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" width="56" height="56" alt="GitHub Actions"/></a>
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="56" height="56" alt="Docker"/></a>
+      <br>Docker
+    </td>
   </tr>
 </table>
 
 ---
 
-## Projeto em destaque
+## Projetos em destaque
+
+### [steam-cost-per-hour](https://github.com/thcosta-dados/steam-cost-per-hour)
+Quanto me custou cada hora jogada na Steam? Um estudo de caso com os dados da minha própria conta.
+
+- Coleta diária em Python no GitHub Actions desde 23/10/2026, gravando no PostgreSQL (Supabase). O histórico de compras vem de uma página HTML salva, lida com BeautifulSoup
+- 34 regras de negócio na especificação, calculadas em views SQL, e painel no Power BI (projeto PBIP) com 5 páginas, drillthrough e medidas DAX
+- 83 testes com pytest a cada push, contra um PostgreSQL em container, e 32 consultas SQL que reconciliam cada fato do painel. Os principais números foram conferidos com as páginas da própria Steam
+- O SteamID só entra no banco como HMAC-SHA256, e o Row Level Security fecha a API pública do Supabase
+- Em 13/11/2026, Rainbow Six Siege saiu a R$ 0,16 por hora, e uma hora de Phasmophobia custou o mesmo que 163 horas de Rainbow Six
 
 ### [Duthi E-commerce Analytics](https://github.com/thcosta-dados/duthi-ecommerce-analytics)
 Análise de ponta a ponta com dados reais de um e-commerce de semijoias (200 pedidos, jul/2024 a set/2025).
